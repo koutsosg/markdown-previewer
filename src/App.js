@@ -14,7 +14,7 @@ This is a paragraph
 
 - list item
 
-[Visit my Assignment](koutsosg.github.io/markdown-previewer)
+[Visit my Assignment](https://koutsosg.github.io/markdown-previewer)
 
 this is an inline \`<div></div>\`
 
